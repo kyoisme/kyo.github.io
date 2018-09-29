@@ -3,4 +3,4 @@ personal website
 building
 建设中
 /
-[网页浏览](https://kyoisme.github.io/kyo.github.io "悬停显示")
+[网页浏览](https://kyoisme.github.io/kyo.github.io)
